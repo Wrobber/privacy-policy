@@ -56,7 +56,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have questions about this Privacy Policy, please contact us at:
 - Email: naturalfarmingcalc@gmail.com
-- Website: https://wrobber.github.io/privacy-policy/privacy_policy.md
+- Website: https://wrobber.github.io/privacy-policy/
 
 ## Compliance
 
