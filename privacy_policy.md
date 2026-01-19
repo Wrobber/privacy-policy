@@ -55,8 +55,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-- Email: westonrobbe+knfcalc@gmail.com
-- Website: [Your Website URL]
+- Email: naturalfarmingcalc@gmail.com
+- Website: https://wrobber.github.io/privacy-policy/privacy_policy.md
 
 ## Compliance
 
