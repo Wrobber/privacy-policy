@@ -1,6 +1,12 @@
 # Privacy Policy for KNF Calculator
 
-**Last Updated:** 1/18/2026
+**Last Updated:** 1/20/2026
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+- Email: naturalfarmingcalc@gmail.com
+- Website: https://wrobber.github.io/privacy-policy/
 
 ## Introduction
 
@@ -51,12 +57,6 @@ You have complete control over your data:
 ## Changes to This Policy
 
 We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last Updated" date at the top of this policy.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, please contact us at:
-- Email: naturalfarmingcalc@gmail.com
-- Website: https://wrobber.github.io/privacy-policy/
 
 ## Compliance
 
